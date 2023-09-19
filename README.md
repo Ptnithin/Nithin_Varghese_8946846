@@ -1,1 +1,5 @@
-# Nithin_Varghese_8946846
+Your Name: Nithin Varghese
+
+Project Name: Lab 3
+
+Student Id: 8946846
